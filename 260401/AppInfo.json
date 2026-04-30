@@ -2,10 +2,11 @@
     "BasicInfo": {
         "AppPackageName": "rinlit.classwidgets",
         "AppName": "ClassWidgets",
+        "ExecutableFile": "Class Widgets 2.exe",
         "AppIntroduction": "课表软件",
-        "AppVersionSN": 1,
+        "AppVersionCode": 1,
         "AppVersion": 2.0,
-        "AppVersionCode": null,
+        "AppVersionName": null,
         "AppDeveloper": "RinLit"
     },
     "DevelopInfo": {
